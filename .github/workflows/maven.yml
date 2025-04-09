@@ -21,4 +21,4 @@ jobs:
     - name: Build with Maven
       
       run:
-        mvn -Dtest=MyTest clean install
+        mvn -Dtest=HelloAppApplicationTests clean install
